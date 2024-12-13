@@ -1,0 +1,20 @@
+{
+  "name": "react-ts-starter",
+  "version": "1.0.0",
+  "description": "React with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuanjiahong/react-ts-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuanjiahong/react-ts-starter/issues"
+  },
+  "homepage": "https://github.com/kuanjiahong/react-ts-starter#readme"
+}
